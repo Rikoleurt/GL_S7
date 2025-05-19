@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ch.unifr.softeng</groupId>
-	<artifactId>exercise25</artifactId>
+	<artifactId>CondreaJasonRoellingerAlexandreExercise25</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todo-backend</name>
 	<description>Todo Backend for SpringBoot2.2.4</description>
